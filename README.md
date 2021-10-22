@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Joaquin Gomez
+- 👀 I’m interested in the video game industry and the impact Data Science / Analytics is having
+- 🌱 I’m currently learning Big Data fundamentals, visualization, & Data Science fundamentals using Python
+- 📫 How to reach me ? My email is joaquingomezsv@gmail.com
